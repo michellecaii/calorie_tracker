@@ -1,7 +1,7 @@
 # 🍲 Food Calorie Counter with Django &amp; Python 🍲
 
 ## Introduction
-Welcome to the "Foodie Calorie Finder," a web application built using HTML, CSS, JavaScript, and Python's Django framework. This application allows users to search for the calorie content in different foods and provides suggestions on exercises to burn those calories.
+Welcome to the "Foodie Calorie Finder," a web application built using HTML, CSS, and Python's Django framework. This application allows users to search for the calorie content in different foods and provides suggestions on exercises to burn those calories.
 
 ## Features
 - **Calorie Search**: Users can enter the name of a food to find out its calorie content.
